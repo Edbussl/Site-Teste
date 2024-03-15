@@ -3,7 +3,7 @@
 - Primeira pagina em html com css (e mais futuramente JS) feito por mim
 ~~~ 
 <!--        GIF        -->
-<img  alt="Edu-Anime" height="450" width="1100" src="https://litoralmania.com.br/wp-content/uploads/2015/12/slideheader2.jpg">
+<img  alt="Comidas" height="450" width="1100" src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <!--   Linguagens Usadas   --> 
 # Linguagens Usadas
